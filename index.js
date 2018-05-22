@@ -20,7 +20,7 @@ function johnLennonFacts(x) {
 function iLoveTheBeatles(x){
   var emptyArray = []
   do {
-    emptyArray.push("I love the beatles!")
+    emptyArray.push("I love the Beatles!")
     x += 1
   }  while(x < 8)
   return emptyArray
