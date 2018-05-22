@@ -20,7 +20,7 @@ function johnLennonFacts(x) {
 function iLoveTheBeatles(x){
   var emptyArray = []
   do {
-    emptyArray.push("I love the Beatles!") * x
+    emptyArray.push("I love the Beatles!")
     
   }  while(x < 7)
   return emptyArray
