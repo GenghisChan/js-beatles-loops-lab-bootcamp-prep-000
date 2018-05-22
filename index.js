@@ -21,7 +21,8 @@ function iLoveBeatles(x){
   var emptyArray = []
   do {
     emptyArray.push("I love beatles!")
-  } while(x < 15)
+    x += 1
+  }  while(x < 7)
   return emptyArray
 }
 
