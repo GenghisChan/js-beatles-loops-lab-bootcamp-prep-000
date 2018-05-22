@@ -22,7 +22,7 @@ function iLoveTheBeatles(x){
   do {
     emptyArray.push("I love the Beatles!")
     x += 1
-  }  while(x < 8)
+  }  while(x < 7)
   return emptyArray
 }
 
